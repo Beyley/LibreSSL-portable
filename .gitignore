@@ -261,3 +261,6 @@ man/mandoc.db
 # JetBrains IDEs
 .idea/
 *.iml
+
+zig-cache/
+zig-out/
